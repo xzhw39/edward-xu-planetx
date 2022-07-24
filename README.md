@@ -44,7 +44,7 @@ THEN I should have proper build scripts for a webpack application
 ## Link to Work
 
 
-[Deployed Application]()
+[Deployed Application](https://morning-earth-87107.herokuapp.com/)
 
 [GitHub](https://github.com/xzhw39/edward-xu-planetx)
 
